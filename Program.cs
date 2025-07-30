@@ -93,6 +93,10 @@
                         muddyCount--;
                     }
                 }
+
+                // Block answers on different rounds.
+                if (answerIndex.Any(x => x))
+                    break; // Children have answered.
             }
 
             Console.WriteLine();
