@@ -1,10 +1,10 @@
 # The-Muddy-Children-Problem
 My programmatic solution to the muddy children problem.
 
-I have also attached a incomplete one if you would like to try.
+I have also attached a [incomplete copy](https://github.com/Caleb-Pace/The-Muddy-Children-Problem/blob/main/LogicalChild.cs) if you would like to try.
 
 ## Key
-`m`: muddy
+`m`: muddy<br/>
 `c`: clean
 
 ## The problem
